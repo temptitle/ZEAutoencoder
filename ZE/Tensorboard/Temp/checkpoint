@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mykhailomelnychuk/Desktop/Autoencoder/ZE/Tensorboard/Temp/model.ckpt"
+all_model_checkpoint_paths: "/Users/mykhailomelnychuk/Desktop/Autoencoder/ZE/Tensorboard/Temp/model.ckpt"
